@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm interested in Distributed Technology and Cloud Native Fields,[😄😄😄](https://anigkus.github.io)
 
-
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anigkus)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=anigkus&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
